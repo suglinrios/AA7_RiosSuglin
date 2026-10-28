@@ -1,0 +1,11 @@
+#BlueJ class context
+#Wed Oct 28 12:19:27 CST 2026
+comment0.target=TourAventura
+comment1.params=pNombre pPrecioBase pCupoMaximo pGuia pNivelDificultad
+comment1.target=TourAventura(java.lang.String, double, int, Guia, java.lang.String)
+comment2.params=pNombre pPrecioBase pCupoMaximo pGuia
+comment2.target=TourAventura(java.lang.String, double, int, Guia)
+comment3.target=double calcularPrecioPorPersona()
+comment4.target=java.lang.String getTipo()
+comment5.target=java.lang.String toString()
+numComments=6

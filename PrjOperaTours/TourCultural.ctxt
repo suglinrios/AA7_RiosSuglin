@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Oct 28 12:19:27 CST 2026
+comment0.target=TourCultural
+comment1.params=pNombre pPrecioBase pCupoMaximo pGuia pIdioma
+comment1.target=TourCultural(java.lang.String, double, int, Guia, java.lang.String)
+comment2.target=double calcularPrecioPorPersona()
+comment3.target=java.lang.String getTipo()
+comment4.target=java.lang.String toString()
+numComments=5

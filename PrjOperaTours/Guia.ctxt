@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Oct 28 12:19:27 CST 2026
+comment0.target=Guia
+comment1.params=pIdentificacion pNombreCompleto
+comment1.target=Guia(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombreCompleto()
+comment3.target=java.lang.String toString()
+numComments=4

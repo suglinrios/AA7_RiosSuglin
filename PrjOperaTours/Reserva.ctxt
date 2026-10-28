@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Oct 28 12:19:27 CST 2026
+comment0.target=Reserva
+comment1.params=pNumero pCliente pCantidadPersonas pPrecioPorPersona
+comment1.target=Reserva(int, Cliente, int, double)
+comment2.target=double getMonto()
+comment3.target=int getCantidadPersonas()
+comment4.target=java.lang.String toString()
+numComments=5

@@ -1,0 +1,27 @@
+#BlueJ class context
+#Wed Oct 28 12:19:27 CST 2026
+comment0.target=Tour
+comment1.params=pNombre pPrecioBase pCupoMaximo pGuia
+comment1.target=Tour(java.lang.String, double, int, Guia)
+comment10.target=java.lang.String consultarNombresAtractivos()
+comment11.params=pCliente
+comment11.target=void registrarReserva(Cliente)
+comment12.params=pCliente pCantidadPersonas
+comment12.target=void registrarReserva(Cliente, int)
+comment13.target=int calcularPersonasReservadas()
+comment14.target=int consultarCuposDisponibles()
+comment15.target=double calcularIngresoTotal()
+comment16.target=int getCantidadTours()
+comment17.target=java.lang.String toString()
+comment2.target=double calcularPrecioPorPersona()
+comment3.target=java.lang.String getTipo()
+comment4.target=java.lang.String getCodigo()
+comment5.target=java.lang.String getNombre()
+comment6.target=java.lang.String consultarNombreGuia()
+comment7.params=pGuia
+comment7.target=void cambiarGuia(Guia)
+comment8.params=pAtractivo
+comment8.target=void agregarAtractivo(Atractivo)
+comment9.params=pAtractivo
+comment9.target=boolean yaIncluyeAtractivo(Atractivo)
+numComments=18
