@@ -1,0 +1,8 @@
+#BlueJ class context
+#Wed Oct 28 11:57:14 CST 2026
+comment0.target=Moto
+comment1.params=pPlaca pMarca pModelo pAnnio
+comment1.target=Moto(java.lang.String, java.lang.String, java.lang.String, int)
+comment2.target=double calcularMontoPeaje()
+comment3.target=java.lang.String getTipo()
+numComments=4
